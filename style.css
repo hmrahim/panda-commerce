@@ -1,0 +1,21 @@
+.banner{
+    margin-top: 100px !important;
+}
+.banner-bg{
+    background-color: #FCEAE8;
+}
+.banner-price{
+    color: #FF136F;
+}
+.banner-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);;
+}
+#category-1{
+    background-color: #FFA500 !important;
+}
+#category-2{
+    background-color: #DA70D6 !important;
+}
+#category-3{
+    background-color: #0000FF !important;
+}
